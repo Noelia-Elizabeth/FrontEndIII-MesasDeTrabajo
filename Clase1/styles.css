@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    height: 75vh;
+    border-width: 3px;
+    margin-top: 5%;
+}
+
+hr {
+    width: 100%;
+}
